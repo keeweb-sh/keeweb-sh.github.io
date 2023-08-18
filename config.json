@@ -56,7 +56,7 @@
     "yubiKeyStuckWorkaround": false,
     "canOpen": false,
     "canOpenDemo": false,
-    "canOpenSettings": false,
+    "canOpenSettings": true,
     "canCreate": false,
     "canImportXml": false,
     "canImportCsv": false,
