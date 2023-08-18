@@ -47,7 +47,7 @@
     "useLegacyAutoType": false,
     "deviceOwnerAuth": null,
     "deviceOwnerAuthTimeoutMinutes": 0,
-    "disableOfflineStorage": true,
+    "disableOfflineStorage": false,
     "yubiKeyShowIcon": true,
     "yubiKeyAutoOpen": false,
     "yubiKeyMatchEntries": true,
