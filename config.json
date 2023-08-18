@@ -78,7 +78,7 @@
     "gdriveClientId": null,
     "gdriveClientSecret": null,
     "onedrive": true,
-    "onedriveClientId": null,
+    "onedriveClientId": 55b9ea56-43a6-4517-aec8-dd1d4843d2cd,
     "onedriveClientSecret": null
   },
   "files": [],
