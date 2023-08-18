@@ -12,7 +12,7 @@
     "autoSave": true,
     "autoSaveInterval": 1,
     "rememberKeyFiles": "path",
-    "idleMinutes": 15,
+    "idleMinutes": 0,
     "minimizeOnClose": false,
     "minimizeOnFieldCopy": false,
     "tableView": false,
