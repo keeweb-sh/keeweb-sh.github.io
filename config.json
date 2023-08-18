@@ -77,7 +77,7 @@
     "gdrive": false,
     "gdriveClientId": null,
     "gdriveClientSecret": null,
-    "onedrive": false,
+    "onedrive": true,
     "onedriveClientId": null,
     "onedriveClientSecret": null
   },
