@@ -1,7 +1,7 @@
 {
   "settings": {
     "theme": "lt",
-    "autoSwitchTheme": false,
+    "autoSwitchTheme": true,
     "locale": null,
     "expandGroups": true,
     "listViewWidth": null,
