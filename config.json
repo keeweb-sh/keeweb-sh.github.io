@@ -2,7 +2,7 @@
   "settings": {
     "theme": "te",
     "autoSwitchTheme": false,
-    "locale": null,
+    "locale": fr,
     "expandGroups": true,
     "listViewWidth": null,
     "menuViewWidth": null,
