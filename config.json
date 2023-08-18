@@ -10,7 +10,7 @@
     "autoUpdate": "install",
     "clipboardSeconds": 300,
     "autoSave": true,
-    "autoSaveInterval": 5,
+    "autoSaveInterval": 0,
     "rememberKeyFiles": "path",
     "idleMinutes": 15,
     "minimizeOnClose": false,
